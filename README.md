@@ -8,9 +8,14 @@ A curated collection of high-performance AI prompts tailored for Product Manager
 | :--- | :--- |
 | [🔍 Discovery](./Discovery) | Uncover user needs, define problems, and research markets. |
 | [🚀 Strategy](./Strategy) | Build roadmaps, analyze competitors, and define product vision. |
+| [📝 Product Specs](./Product%20Specs) | PRDs, user stories, and acceptance criteria. |
+| [📈 Growth & GTM](./Growth%20&%20GTM) | Launch strategies, value prop mapping, and copy. |
 | [📣 Stakeholder Comms](./Stakeholder%20Comms) | Draft updates, summaries, and persuasive narratives. |
 | [💼 Interview Prep](./Interview%20Prep) | Mock cases, behavioral practice, and product sense drills. |
 | [📊 Data Analysis](./Data%20Analysis) | Generate SQL, interpret trends, and extract insights. |
+| [⚙️ Technical PM](./Technical%20PM) | Technical discovery, API docs, and architecture reviews. |
+| [⚡ Productivity](./Productivity) | Document summarization, workflow optimization. |
+
 
 ## 🛠️ How to Use
 
