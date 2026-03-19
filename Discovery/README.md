@@ -12,3 +12,6 @@ Analyze raw user feedback to identify and categorize recurring problems.
 
 ### 3. [Jobs-to-be-Done (JTBD) Framework](./JTBD_FRAMEWORK.md)
 Craft 'Jobs' statements to focus on the underlying needs of your users.
+
+### 4. [User Interview Guide](./USER_INTERVIEW_GUIDE.md)
+Draft structured, non-biased user interview scripts to validate hypotheses.

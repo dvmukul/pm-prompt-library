@@ -12,3 +12,6 @@ Break down features into granular user stories with clear "done" definitions.
 
 ### 3. [Edge Case Brainstormer](./EDGE_CASES.md)
 Identify technical and user-experience edge cases for complex features.
+
+### 4. [Gherkin Acceptance Criteria](./GHERKIN_ACCEPTANCE_CRITERIA.md)
+Transform high-level user stories into precise, executable acceptance criteria.

@@ -12,3 +12,6 @@ Draft initial API requirements and documentation for developer-facing products.
 
 ### 3. [Architecture Review Prep](./ARCH_REVIEW.md)
 Structure your input for engineering architecture and system design reviews.
+
+### 4. [Error Handling Policy (UX-First)](./ERROR_HANDLING_POLICY.md)
+Design UX-first error handling flows and API response strategies.

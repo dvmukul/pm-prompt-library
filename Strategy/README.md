@@ -12,3 +12,6 @@ Define a compelling product vision and identify your primary success metric.
 
 ### 3. [Prioritization Matrix (RICE)](./RICE_PRIORITIZATION.md)
 Score a list of features using the RICE framework (Reach, Impact, Confidence, Effort).
+
+### 4. [Moat Analysis](./MOAT_ANALYSIS.md)
+Analyze and identify sustainable competitive advantages (moats) for your product.

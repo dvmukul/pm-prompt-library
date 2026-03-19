@@ -12,3 +12,6 @@ Structure a cohort analysis to understand user retention and churn.
 
 ### 3. [A/B Test Results Parser](./AB_TEST_PARSER.md)
 Statistically analyze A/B test data to determine significance and next steps.
+
+### 4. [Metric Trees (KPI Decomposition)](./METRIC_TREES.md)
+Decompose a high-level North Star Metric into actionable input metrics.
