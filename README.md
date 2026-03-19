@@ -14,6 +14,7 @@ A curated collection of high-performance AI prompts tailored for Product Manager
 | [💼 Interview Prep](./Interview%20Prep) | Mock cases, behavioral practice, and product sense drills. |
 | [📊 Data Analysis](./Data%20Analysis) | Generate SQL, interpret trends, and extract insights. |
 | [⚙️ Technical PM](./Technical%20PM) | Technical discovery, API docs, and architecture reviews. |
+| [🎨 UX & Design](./UX%20&%20Design) | Wireframing, giving design feedback, and journey mapping. |
 | [⚡ Productivity](./Productivity) | Document summarization, workflow optimization. |
 
 
